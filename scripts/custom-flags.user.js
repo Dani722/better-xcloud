@@ -5,7 +5,7 @@
 // @description  Customize Better xCloud script
 // @author       redphx
 // @license      MIT
-// @match        https://www.xbox.com/*/play*
+// @match        https://208.87.240.203/pt-BR/play?__cpo=aHR0cHM6Ly93d3cueGJveC5jb20
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
